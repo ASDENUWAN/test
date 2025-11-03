@@ -1,10 +1,7 @@
 
-Optional fancy tree style:
 
-```markdown
 ## Project Structure
 
-```text
 src
 ├─ config
 │  └─ db.js
