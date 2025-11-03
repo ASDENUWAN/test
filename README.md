@@ -1,7 +1,6 @@
-```markdown
 
 ## Project Structure
-
+```text
 src
 ├─ config
 │  └─ db.js
@@ -19,3 +18,6 @@ src
 └─ server.js
 .env.example
 .env
+
+```
+rdtrdytfuygiho uhiuh8h8h nuijiji
